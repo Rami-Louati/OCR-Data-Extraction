@@ -1,0 +1,5 @@
+easyocr 1.7.1
+torch 2.4.0+cpu
+matplotlib 3.9.0
+pillow 10.3.0
+   
